@@ -368,7 +368,7 @@ body.light .toast-message { background: rgba(255,255,255,0.86); color: #0f172a; 
 
 @media (max-width: 575px) {
   .hero { padding-top: 110px !important; }
-  .hero h1 { font-size: 2.15rem !important; }
+  .hero h1 { font-size: 2rem !important; }
   .section { padding: 74px 0; }
   .portrait-frame { width: min(310px, 88vw) !important; }
   .contact-panel, .timeline-wrap { padding: 24px; }
